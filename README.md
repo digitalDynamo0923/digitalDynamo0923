@@ -8,7 +8,7 @@
 
 [![](./header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Javascript, Typescript, React, Next, Node, Express, Microservices and Blockchain Technologies including Bitcoin, Ethereum, Binance and Smart contract.</b>\
 > Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
 
 ## 🛠️ Tech Stack:
@@ -41,8 +41,5 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=default"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://raw.githubusercontent.com/tdev0923/tdev0923/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/tdev0923/tdev0923/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+    </tr>   
 </table>
