@@ -1,54 +1,49 @@
-[<img src="https://raw.githubusercontent.com/ngudbhav/ngudbhav/main/intro.gif" alt="👋 Hi there! I'm Udbhav | https://ngudbhav.com" title="👋 Hi there! I'm Udbhav | https://ngudbhav.com"/>](https://ngudbhav.com/)
-<br />
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/ngudbhav%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/ngudbhav)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/ngudbhav/)
-[<img src="https://img.shields.io/badge/ngudbhav%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>](https://snapchat.com/add/ngudbhav/)
-
-</div>
-
-* 🔭 Currently working as Software Engineer @ <a href="https://www.interviewbit.com/">InterviewBit</a>
-* 💬 Developer by profession, Tech-Consultant by Reputation
-* ⚡ Connect to Know More!
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>]()
-[<img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]()
-[<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
-[<img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>]()
-[<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>]()
-[<img src="https://img.shields.io/badge/CIRCLECI%20-%23161616.svg?&style=for-the-badge&logo=circleci&logoColor=white"/>]()
-
-</div>
-<br/>
-<div align="center">
-
-Title | Downloads | Checkout
---- | --- | ---
-excel-to-mysql | ![visitors](https://badgen.net/npm/dt/excel-to-mysql?icon=npm) |  <a href="https://www.npmjs.com/package/excel-to-mysql">NPM</a>
-excel-to-mongodb | ![visitors](https://badgen.net/npm/dt/excel-to-mongodb?icon=npm) | <a href="https://www.npmjs.com/package/excel-to-mongodb">NPM</a>
-LazyType| [![Downloads](https://img.shields.io/github/downloads/ngudbhav/lazyType/total.svg)](https://github.com/ngudbhav/lazyType/releases) | <a href="https://github.com/ngudbhav/lazyType">Github</a> 
-Trico | [![Downloads](https://img.shields.io/github/downloads/ngudbhav/TriCo-electron-app/total.svg)](https://github.com/ngudbhav/TriCo-electron-app/releases) | <a href="https://github.com/ngudbhav/TriCo-electron-app">Github</a>
-</div>
-<br/>
-<div align="center">
-
-![NGUdbhav's github stats](https://github-readme-stats.vercel.app/api?username=ngudbhav&show_icons=true&theme=dark)
-  
-</div>
-<br />
-
-<p align="right">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ngudbhav.ngudbhav)
+<p align="center">
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
+    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
 </p>
+
+[![](./src/header_.png)](#)
+
+> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+
+## 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
+![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
+![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
+![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
+
+## 📈 GitHub Activity Graph:
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
