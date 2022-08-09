@@ -15,18 +15,29 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 
 ## 🛠️ My Skill Set
 
-#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+#### Languages
+![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)\
-![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache_Airflow-555?style=flat&logo=Apache-Airflow)\
-![Angular](https://img.shields.io/badge/-Angular-555?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
-![Jekyll](https://img.shields.io/badge/-Jekyll-555?style=flat&logo=jekyll)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-555?style=flat&logo=solidity)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)&nbsp;\
+
+#### Hosting/SaaS
+![AWS](https://img.shields.io/badge/-Amazon_Web_Services-555?style=flat&logo=amazon-aws)&nbsp;
+![AZURE](https://img.shields.io/badge/-Microsoft_Azure-555?style=flat&logo=microsoft-azure)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-555?style=flat&logo=cloudflare)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-555?style=flat&logo=digitalocean)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=firebase)&nbsp;
+![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-555?style=flat&logo=google-cloud)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-555?style=flat&logo=heroku)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-555?style=flat&logo=vercel)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-555?style=flat&logo=netlify)&nbsp;\
+
+#### Frameworks, Platforms & Libraries
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
