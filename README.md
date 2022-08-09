@@ -61,6 +61,8 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 ![Polygon](https://img.shields.io/badge/-Polygon-555?style=flat&logo=polygon)&nbsp;
 ![Solana](https://img.shields.io/badge/-Solana-555?style=flat&logo=solana)&nbsp;
 ![Cosmos](https://img.shields.io/badge/-Cosmos-555?style=flat&logo=cosmos)&nbsp;
+![Hardhat](https://img.shields.io/badge/-Hardhat-555?style=flat&logo=hardhat)&nbsp;
+![Truffle](https://img.shields.io/badge/-Truffle-555?style=flat&logo=truffle)&nbsp;
 
 #### Servers
 ![Apache](https://img.shields.io/badge/-Apache-555?style=flat&logo=apache)&nbsp;
