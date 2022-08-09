@@ -24,7 +24,7 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-555?style=flat&logo=solidity)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=dart)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)&nbsp;\
+![GraphQL](https://img.shields.io/badge/-GraphQL-555?style=flat&logo=graphql)&nbsp;
 
 #### Hosting/SaaS
 ![AWS](https://img.shields.io/badge/-Amazon_Web_Services-555?style=flat&logo=amazon-aws)&nbsp;
@@ -35,14 +35,43 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 ![GoogleCloud](https://img.shields.io/badge/-Google_Cloud-555?style=flat&logo=google-cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-555?style=flat&logo=heroku)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-555?style=flat&logo=vercel)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-555?style=flat&logo=netlify)&nbsp;\
+![Netlify](https://img.shields.io/badge/-Netlify-555?style=flat&logo=netlify)&nbsp;
 
 #### Frameworks, Platforms & Libraries
-![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-555?style=flat&logo=adobe-illustrator)&nbsp;
+![React](https://img.shields.io/badge/-React.js-555?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux.js-555?style=flat&logo=redux)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=next.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-555?style=flat&logo=vue.js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-555?style=flat&logo=nuxt.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-555?style=flat&logo=django)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=flutter)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=laravel)&nbsp;
+![AntDesign](https://img.shields.io/badge/-Ant_Design-555?style=flat&logo=ant-design)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-555?style=flat&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-555?style=flat&logo=bootstrap)&nbsp;
+![Less](https://img.shields.io/badge/-Less-555?style=flat&logo=Less)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-555?style=flat&logo=sass)&nbsp;
+
+#### Blockchain
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-555?style=flat&logo=bitcoin)&nbsp;
+![Binance](https://img.shields.io/badge/-Binance-555?style=flat&logo=binance)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-555?style=flat&logo=ethereum)&nbsp;
+![Polygon](https://img.shields.io/badge/-Polygon-555?style=flat&logo=polygon)&nbsp;
+![Solana](https://img.shields.io/badge/-Solana-555?style=flat&logo=solana)&nbsp;
+![Cosmos](https://img.shields.io/badge/-Cosmos-555?style=flat&logo=cosmos)&nbsp;
+
+#### Servers
+![Apache](https://img.shields.io/badge/-Apache-555?style=flat&logo=apache)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-555?style=flat&logo=nginx)&nbsp;
+
+#### Others
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logo=trello)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-555?style=flat&logo=swagger)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 
 ## 📈 GitHub Activity Graph:
 
