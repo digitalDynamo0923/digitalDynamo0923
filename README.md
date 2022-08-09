@@ -8,15 +8,16 @@
 
 [![](./header_.png)](#)
 
-> <b>I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Javascript, Typescript, React, Next, Node, Express, Microservices and Blockchain Technologies including Bitcoin, Ethereum, Binance and Smart contract.</b>\
-> Want to discuss something? You can reach out to me on discord at <b>Dwanzil#8489</b>.
+# Hey there! I'm Eric Chan👋
+## :book: About Me
 
-## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
+I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Javascript, Typescript, React, Next, Node, Express, Microservices and Blockchain Technologies including Bitcoin, Ethereum, Binance and Smart contract.
+
+## 🛠️ My Skill Set
+
+#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript)\
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
