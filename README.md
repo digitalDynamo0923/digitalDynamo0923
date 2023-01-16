@@ -74,15 +74,3 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 ![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logo=trello)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-555?style=flat&logo=swagger)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
-
-## 📈 GitHub Activity Graph:
-
-<table>
-    <tr>
-        <td align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tdev0923&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tdev0923&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev0923&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev0923&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=default"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=tokyonight"/></a></td>
-    </tr>   
-</table>
