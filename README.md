@@ -8,7 +8,7 @@
 
 [![](./header_.png)](#)
 
-# Hey there! I'm Gray Wang👋
+# Hey there!👋
 ## :book: About Me
 
 I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Javascript, Typescript, React, Next, Node, Express, Microservices and Blockchain Technologies including Bitcoin, Ethereum, Binance and Smart contract.
